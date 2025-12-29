@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/eo-umami.md",
+                "file": "posts/random-url-gen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eo-umami"
+              "title": "random-url-gen"
             }
           }
         ]
@@ -171,20 +171,20 @@
   },
   "active": "96b79d1156396696",
   "lastOpenFiles": [
-    "assets/images/eo-umami-2.png",
-    "assets/images/eo-umami-1.png",
-    "assets/images/eo-umami.png",
-    "posts/fuwari.md",
+    "assets/images/random-url-gen-11.png",
+    "assets/images/random-url-gen-10.png",
+    "assets/images/random-url-gen-9.png",
+    "assets/images/random-url-gen-8.png",
+    "assets/images/random-url-gen-7.png",
+    "assets/images/random-url-gen-6.png",
+    "assets/images/random-url-gen-5.png",
+    "assets/images/random-url-gen-4.png",
+    "assets/images/random-url-gen-3.png",
+    "assets/images/random-url-gen-2.png",
+    "assets/images/random-url-gen-1.png",
     "posts/eo-umami.md",
+    "posts/fuwari.md",
     "posts/ddos-6t.md",
-    "assets/images/3c33b054a3180932ae87bea8bd06c3ed.png",
-    "assets/images/d16b7b134dec1224dcfc16e59a21942f.png",
-    "assets/images/Screenshot_2025-12-16-08-08-33-65_149003a2d400f6a.jpg",
-    "assets/images/image_2025-12-16_08-24-54.png",
-    "assets/images/ddos-6t-3.png",
-    "assets/images/5a86eb051d48615259e8dcecb0fe8185.png",
-    "assets/images/c4b6bdd2c39ae7585b9d3ecc5dbe9c6d.png",
-    "assets/images/5b3bcf42d0e4f73fbe031699a291a5c2.png",
     "posts/py-uploadserver.md",
     "posts/umami-migration.md",
     "posts/serverless-function.md",
