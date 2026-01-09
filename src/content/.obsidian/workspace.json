@@ -171,6 +171,7 @@
   },
   "active": "96b79d1156396696",
   "lastOpenFiles": [
+    "posts/admonition-test.md",
     "assets/images/warden-worker-23.png",
     "assets/images/warden-worker-22.png",
     "assets/images/warden-worker-21.png",
@@ -182,7 +183,6 @@
     "assets/images/waf-8.png",
     "assets/images/waf-7.png",
     "assets/images/waf-6.png",
-    "assets/images/waf-5.png",
     "posts/shorter-url.md",
     "posts/double-monitior.md",
     "posts/uptimeflare.md",
