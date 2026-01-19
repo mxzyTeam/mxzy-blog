@@ -1,6 +1,6 @@
 ---
 title: WTF？！直接将Umami部署到EdgeOne Pages？扔掉VPS！直接跑在云函数！
-published: 2025-12-22T10:14:32
+published: 2026-01-19T10:14:32
 description: 我们都知道，EdgeOne Pages有个完整的Node.js环境，那Umami是Next.js也基于Node.js，那我们是不是可以...
 image: ../img/00b9c1ae76772d34e0e99e23077203e2.png
 draft: false
