@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/bili-imgbed.md",
+                "file": "posts/eo-umami.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bili-imgbed"
+              "title": "eo-umami"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "2873de8b87963ea6",
   "lastOpenFiles": [
+    "posts/umami.md",
+    "posts/umami-local-2-render.md",
+    "posts/bili-imgbed.md",
     "img/612c0305003fc645e7ad2a23a6e90412.jpg",
     "img/d6a81767a7de4eb81b3436772d40884c.webp",
     "img/583ca23324efacfbb3b0f6245141cb20.png",
@@ -181,12 +184,10 @@
     "img/638150e28cc9ff8bf8c3337590f5b880.webp",
     "img/1d637607bdaddac348d9339e5eadf16a.webp",
     "img/320c766fc1dc950841b1bea80cce894b.png",
-    "img/fafa21aab903b9466cd0adb8485eac8e.png",
     "img",
     "assets/images",
     "posts/mac-gal.md",
     "posts/waf.md",
-    "posts/bili-imgbed.md",
     "posts/eovsesa.md",
     "2026-01-09.md",
     "posts/uptimeflare.md",
@@ -207,7 +208,6 @@
     "posts/double-monitior.md",
     "posts/netlify-vercel-proxy.md",
     "posts/random-url-gen.md",
-    "posts/eo-umami.md",
-    "posts/fuwari.md"
+    "posts/eo-umami.md"
   ]
 }
