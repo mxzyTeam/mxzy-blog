@@ -2,16 +2,15 @@ import type { ExpressiveCodeConfig, GitHubEditConfig, ImageFallbackConfig, Licen
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-  title: "MXZY Blog",
-  subtitle: "Minecraft 公益生存服务器 · 官方站点",
-  description: "冒险之源 Minecraft 公益生存服务器官方站点，专注建筑与生存玩法，提供服务器公告、玩法指南、更新日志与相关技术记录",
+  title: '个人博客',
+  subtitle: '个人博客',
+  description: '个人博客，记录技术学习与生活分享。',
   keywords: [
-    "Minecraft",
+    "",
     "冒险之源", 
-    "MC服务器",
-    "公益服",
-    "生存服务器",
-    "Minecraft插件",
+    "MC",
+    "生存",
+    "插件",
   ],
   lang: "zh_CN",
   themeColor: {
@@ -56,19 +55,14 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Home,
     LinkPreset.Archive,
     {
-      name: "服务器介绍",
-      url: "posts/服务器介绍/",
+      name: "介绍",
+      url: "posts/介绍/",
       external: false,
     },
     {
-      name: "玩家指南", 
+      name: "指南", 
       url: "/guide/",
       external: false,
-    },
-    {
-      name: "系统商店",
-      url: "https://shop.mxzysoa.top",
-      external: true,
     },
   ]
 };
@@ -76,7 +70,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: "/avatar.png",
   name: "Littleduan", 
-  bio: "一个以建筑与生存为核心的 Minecraft服务器",
+  bio: "qaq",
   links: [
     {
       name: "Bilibili",
